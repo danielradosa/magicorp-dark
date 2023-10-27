@@ -1,0 +1,27 @@
+{
+  "publisher": "dango",
+  "author": {
+    "name": "Daniel Radosa",
+    "email": "28@danielradosa.com"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "version": "1.2.3",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Magicorp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/magicorp-theme.json"
+      }
+    ]
+  },
+  "displayName": "Magicorp | DARK THEME",
+  "name": "magicorp-theme",
+  "readme": "README.md",
+  "icon": "mage-cape.png"
+}
