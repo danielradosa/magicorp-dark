@@ -6,6 +6,9 @@
 
 ---
 
+You can either clone this repo and build `.vsix` from the terminal,   
+or download the latest release `.vsix` and install it manually via VS Code.
+
 This theme is pretty dark, using purple, pink accents with  
 having a very bright coloring for strings, variables, tags etc...
 
